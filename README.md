@@ -9,6 +9,7 @@ Supports full CSV email list uploads to check emails for validity
 Supports Email permutation checks
 
 To add more permutation types, simply edit the permutatorEmail.class.php file 
+
 -It currently supports first name and last name permuation types for all domains
 
 
