@@ -15,3 +15,5 @@ To add more permutation types, simply edit the permutatorEmail.class.php file
 IPV4 Calculations are done in the DNS.php file, located in DNS folder
 
 To see it running, test it out here http://gb-emailvalidator.azurewebsites.net/
+
+Suggested hosting: We suggest you host this on a VPS host or a VM, it can put pressure on your server if you use shared hosting so be careful. 
