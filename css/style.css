@@ -1,0 +1,17 @@
+*{margin;0;padding:0}
+body{font-family: Arial}
+h1,h2,h3,h4,h5,h6{font-weight:bold}
+.button{width:75px; margin-left: 44px;padding: 3px;border-radius:5px}
+.structure{width:960px;margin:0 auto;display:block}
+.fix{overflow: hidden}
+.header_area{}
+.header{}
+.csv_form_area{border-bottom:1px solid #666}
+.csv_form{}
+.email_permutator_area{}
+.email_permutator{}
+.footer_area{}
+.footer{}
+span{margin-left: 22px}
+.valid{height:20px}
+.invalid{height:20px}
