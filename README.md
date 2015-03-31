@@ -12,4 +12,4 @@ To add more permutation types, simply edit the permutatorEmail.class.php file
 
 -It currently supports first name and last name permuation types for all domains
 
-
+IPV4 Calculations are done in the DNS.php file, located in DNS folder
