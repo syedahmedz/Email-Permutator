@@ -25,9 +25,9 @@
 		<div class="fix email_permutator">
 			<h2>Email Permutator </h2>
 			<?php if(isset($_GET['emailPermutatorError'])) {?>
-			<p style="display:inline;color:red">All fields must be fill up!!</p>
+			<p style="display:inline;color:red">Sorry brah...All fields must be entered!!</p>
 			<?php } else { ?>
-			<p style="display:none;color:red">All fields must be fill up!!</p>
+			<p style="display:none;color:red">Sorry brah...All fields must be entered!!</p>
 			<?php } ?>
 			<form method="post" action="email_permutator.php">
 				<p>First Name : <input type="text" name="fname"></p>		
